@@ -1,0 +1,10 @@
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.deps.json
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.pdb
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.csproj.AssemblyReference.cache
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.AssemblyInfoInputs.cache
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.AssemblyInfo.cs
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Application\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Application.pdb
