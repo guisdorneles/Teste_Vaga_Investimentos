@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Teste_Vaga_Investimentos.Domain\Teste_Vaga_Investimentos.Domain.csproj" />
+    <ProjectReference Include="..\Teste_Vaga_Investimentos.Infra\Teste_Vaga_Investimentos.Infra.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

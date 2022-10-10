@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Application\\Teste_Vaga_Investimentos.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Application\\Teste_Vaga_Investimentos.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Application\\Teste_Vaga_Investimentos.Application.csproj",
+        "projectName": "Teste_Vaga_Investimentos.Application",
+        "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Application\\Teste_Vaga_Investimentos.Application.csproj",
+        "packagesPath": "C:\\Users\\guisd\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guisd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj"
+              },
+              "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Infra\\Teste_Vaga_Investimentos.Infra.csproj": {
+                "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Infra\\Teste_Vaga_Investimentos.Infra.csproj"
+              },
+              "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Service\\Teste_Vaga_Investimentos.Service.csproj": {
+                "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Service\\Teste_Vaga_Investimentos.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj",
+        "projectName": "Teste_Vaga_Investimentos.Domain",
+        "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj",
+        "packagesPath": "C:\\Users\\guisd\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guisd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Infra\\Teste_Vaga_Investimentos.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Infra\\Teste_Vaga_Investimentos.Infra.csproj",
+        "projectName": "Teste_Vaga_Investimentos.Infra",
+        "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Infra\\Teste_Vaga_Investimentos.Infra.csproj",
+        "packagesPath": "C:\\Users\\guisd\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guisd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Service\\Teste_Vaga_Investimentos.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Service\\Teste_Vaga_Investimentos.Service.csproj",
+        "projectName": "Teste_Vaga_Investimentos.Service",
+        "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Service\\Teste_Vaga_Investimentos.Service.csproj",
+        "packagesPath": "C:\\Users\\guisd\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guisd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Domain\\Teste_Vaga_Investimentos.Domain.csproj"
+              },
+              "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Infra\\Teste_Vaga_Investimentos.Infra.csproj": {
+                "projectPath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.Infra\\Teste_Vaga_Investimentos.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

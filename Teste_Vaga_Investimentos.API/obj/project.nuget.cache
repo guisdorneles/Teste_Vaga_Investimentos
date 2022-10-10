@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fM6kmjUD5Nk/XJwTcc0d94U6kx9n2SKgKRySCRKazSpx7jAux3gN878NXm28Zg6l2jWN7+Fnpk9Rq+x8qLF28A==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\itau\\Teste_Vaga_Investimentos\\Teste_Vaga_Investimentos.API\\Teste_Vaga_Investimentos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guisd\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\guisd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

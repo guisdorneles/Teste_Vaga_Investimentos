@@ -1,0 +1,15 @@
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.deps.json
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.pdb
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Domain.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Domain.pdb
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.csproj.AssemblyReference.cache
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.AssemblyInfoInputs.cache
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.AssemblyInfo.cs
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.csproj.CoreCompileInputs.cache
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.csproj.CopyComplete
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Service.pdb
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Infra.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.Service\bin\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.Infra.pdb
