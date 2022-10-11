@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
@@ -17,6 +18,11 @@ namespace Teste_Vaga_Investimentos.API.Filters
         {
             Debug.WriteLine(string.Format("ModelState {0} executed at {1}", actionExecutingContext.ModelState, DateTime.Now.ToShortDateString()), "Web API Logs");
             Trace.WriteLine(string.Format("ModelState {0} executed at {1}", actionExecutingContext.ModelState, DateTime.Now.ToShortDateString()), "Web API Logs");
+            var modelState = actionExecutingContext.ModelState;
+
+            if (!modelState.IsValid)
+                actionExecutingContext.Response = actionExecutingContext.Request
+                     .CreateErrorResponse(HttpStatusCode.BadRequest, modelState);
         }
     }
 }
