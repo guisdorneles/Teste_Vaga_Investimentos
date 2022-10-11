@@ -2,7 +2,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Teste_Vaga_Investimentos.Infra.Interfaces;
 using Teste_Vaga_Investimentos.Infra.Repositories;
 
-namespace Teste_Vaga_Investimentos.Application.Configurations
+namespace Teste_Vaga_Investimentos.API.Configurations
 {
 
     public static class RepositoriesCollectionExtensions

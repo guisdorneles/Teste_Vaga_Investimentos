@@ -13,8 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Vaga_Investimentos.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Vaga_Investimentos.Infra", "Teste_Vaga_Investimentos.Infra\Teste_Vaga_Investimentos.Infra.csproj", "{A2C6D455-37E9-4B79-B437-6FE2FCD106F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Vaga_Investimentos.Application", "Teste_Vaga_Investimentos.Application\Teste_Vaga_Investimentos.Application.csproj", "{6111DF7B-9370-4513-8107-95FACBED496D}"
-EndProject
+
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

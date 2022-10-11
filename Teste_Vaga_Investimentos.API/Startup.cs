@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Teste_Vaga_Investimentos.Application.Configurations;
+using Teste_Vaga_Investimentos.API.Configurations;
 using Swashbuckle.AspNetCore.Swagger;
 
 namespace Teste_Vaga_Investimentos.Application

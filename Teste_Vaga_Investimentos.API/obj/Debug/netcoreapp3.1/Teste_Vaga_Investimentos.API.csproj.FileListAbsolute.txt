@@ -29,3 +29,8 @@ D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\obj\Debug
 D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.API.dll
 D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.API.pdb
 D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\obj\Debug\netcoreapp3.1\Teste_Vaga_Investimentos.API.genruntimeconfig.cache
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projetos\itau\Teste_Vaga_Investimentos\Teste_Vaga_Investimentos.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

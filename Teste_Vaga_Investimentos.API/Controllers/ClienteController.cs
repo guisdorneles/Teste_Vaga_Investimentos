@@ -1,14 +1,15 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Teste_Vaga_Investimentos.API.Filters;
 using Teste_Vaga_Investimentos.Service.Interfaces;
 
 namespace Teste_Vaga_Investimentos.Application.Controllers
 {
+    
     [ApiController]
+    [ValidateModelAttribute]
     [Route("v1/cliente")]
 
     public class ClienteController : ControllerBase
